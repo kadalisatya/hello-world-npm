@@ -1,4 +1,4 @@
-# hello-world-npm
+# hello-world-npm -- 1.0.4
 
 This is a simple npm package that demonstrates the [GitHub Package Registry](https://github.com/features/package-registry).
 
